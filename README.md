@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#G-Sneaker Website with Responesive, Animation, Features: Add to cart, Increase, Decrease, Delete item in cart. This Website using ReactJS, Redux, TailwindCSS, Framer Motion(Animation)
 
 ## Available Scripts
 
