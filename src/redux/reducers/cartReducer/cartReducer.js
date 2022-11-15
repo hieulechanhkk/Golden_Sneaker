@@ -2,7 +2,7 @@ import * as Types from "../../types/cartTypes";
 
 const initialState = {
   //SSR
-  cart: JSON.parse(localStorage.getItem("cart")).cart ? JSON.parse(localStorage.getItem("cart")).cart : [],
+  cart: JSON.parse(localStorage.getItem("cart"))?.cart ? JSON.parse(localStorage.getItem("cart"))?.cart : [],
 
   //CSR
   scroll: false
